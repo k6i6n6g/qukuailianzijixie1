@@ -1,6 +1,6 @@
 package main
 type BlockChain struct {
-	//定义一个区块链结合  :定一个[]*Block
+//定义一个区块链结合 :定一个[]*Block
 	Blocks []*Block
 }
 //创建区块链
