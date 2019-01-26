@@ -102,3 +102,4 @@ func (bc *BlockChain)AddBlock(data string){
 	bc.Blocks=append(bc.Blocks,block)
 
 }
+//起床起来圈钱拉
